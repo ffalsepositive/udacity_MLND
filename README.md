@@ -1,10 +1,11 @@
 # Capstone Project - Starbucks Case
 
-## [Proposal](./capstone_proposal.pdf)
+## [Proposal](./reports/proposal.pdf)
+## [Project Report](./reports/report.pdf)
 
 ## Data
 
-- Data sets are provided by Udacity. Three json files (portfolio.json, transcript.json, profile.json) should be stored in **./data/raw/** directory.
+- Data sets are provided by Udacity. Three json files (portfolio.json, transcript.json, profile.json) should be stored in <code>./data/raw/</code> directory.
 
 ## Project Structure
 
@@ -68,5 +69,3 @@ Notebooks has been run on AWS SageMaker **ml.c4.2xlarge**
 Run <code>app.py</code> with the specified environment.
     
 _Note:_ S3 Bucket name should be  specified.
-
-## [Project Report](./reports/report.pdf)
